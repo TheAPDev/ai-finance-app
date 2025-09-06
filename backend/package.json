@@ -1,0 +1,13 @@
+{
+  "name": "chatbot-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.9.36",
+    "axios": "^1.11.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
